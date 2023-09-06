@@ -1,7 +1,5 @@
-import pandas as pd
 import streamlit as st
-import matplotlib.pyplot as plt
-import numpy as np
+
 
 # Function to display the header on every page
 def display_header():
